@@ -9,17 +9,17 @@
 
 ---
 * Tuesday 1/11
-*Quiz*
+**Quiz**
 ---
 * Wednesday 1/12
-*Lab*
+**Lab**
 
 ---
 * Thursday 1/13
 
 ---
 * Friday 1/14
-*Homework*
+**Homework**
 ---
 * Saturday 1/15
 
