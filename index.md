@@ -10,6 +10,9 @@
 ---
 * Tuesday 1/11
 
+# code block
+print 'indent 4 spaces'
+```
 Quiz
 &nbsp;
 
