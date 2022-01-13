@@ -6,27 +6,18 @@
 
 * Monday 1/10
 
-
 ---
 * Tuesday 1/11
-
-# code block
-print 'indent 4 spaces'
-```
-Quiz
-&nbsp;
 
 ---
 * Wednesday 1/12
 
-**Lab**
 ---
 * Thursday 1/13
 
 ---
 * Friday 1/14
 
-**Homework**
 ---
 * Saturday 1/15
 
