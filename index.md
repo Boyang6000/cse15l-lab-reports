@@ -10,8 +10,9 @@
 ---
 * Tuesday 1/11
 
-*Quiz*
+Quiz
 &nbsp;
+
 ---
 * Wednesday 1/12
 
