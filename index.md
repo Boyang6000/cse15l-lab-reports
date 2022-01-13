@@ -1,7 +1,7 @@
 # Schedule
 ## Week2 1/10 - 1/16
 
-[Link](https://ucsd-cse15l-w22.github.io/)
+[Course Page](https://ucsd-cse15l-w22.github.io/)
 
 * Monday 1/10
 * Tuesday 1/11
