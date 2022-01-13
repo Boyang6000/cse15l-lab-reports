@@ -1,3 +1,6 @@
+[Lab Report 1](lab-report-1-week-2.html)
+
+
 # Schedule
 ## Week2 1/10 - 1/16
 
