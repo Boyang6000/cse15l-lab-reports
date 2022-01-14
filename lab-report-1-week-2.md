@@ -6,6 +6,8 @@
     
     [Link](https://code.visualstudio.com/)
 
+    ![Image](DownloadVScode.png)
+
     After installed, you should be able to open it and it looks like this:
     
     ![Image](VSCode.png)
