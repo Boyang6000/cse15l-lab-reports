@@ -1,11 +1,14 @@
 # Week 2 Lab Report
 
 * **Installing VScode**
+    
     Follow the instruction on VScode website and download VScode.
+    
     [Link](https://code.visualstudio.com/)
 
     After installed, you should be able to open it and it looks like this:
-    ![Image](VS Code Screenshot.png)
+    
+    ![Image](VSCode.png)
     
 
 
