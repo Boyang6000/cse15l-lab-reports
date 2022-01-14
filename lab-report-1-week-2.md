@@ -4,7 +4,7 @@
     
     Follow the instruction on VScode website and download VScode.
     
-    [Link](https://code.visualstudio.com/)
+    [VSCode Download](https://code.visualstudio.com/)
 
     ![Image](DownloadVScode.png)
 
@@ -18,9 +18,21 @@
     1. Install *OpenSSH*, which you can see from *Setting* -> *APP* -> *Apps & Features* -> *Optional Features*. Install *OpenSSH Client* and *OpenSSH Server* if you do not 
        have these on your computer.
        
+       [Tutorial](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
+
        ![Image](OpenSSH.png)
        
-    2. Look up for your special account for CSE15L. Change the password for your special account of CSE15L.
+    2. Look up for your special account for *CSE15L*. Change the password for your special account of *CSE15L*.
+
+       **Tips**  After reset the password for the account, Click *Enter* on your keyboard instead of clicking *Check Password* on the page
+
+       [Account Website](https://sdacs.ucsd.edu/~icc/index.php)
+
+       ![Image](ETS.png)
+
+       ![Image](Password.png)
+
+       
     3. 
 * **Trying Some Commands**
 
