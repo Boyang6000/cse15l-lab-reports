@@ -32,8 +32,8 @@
 
        ![Image](Password.png)
 
-       
-    3. 
+    3. Open VScode and Open a *new terminal*. Type in $ ssh *cse15L username*@ieng6.ucsd.edu into the terminal and connect to the server
+        
 * **Trying Some Commands**
 
 * **Moving Files with scp**
