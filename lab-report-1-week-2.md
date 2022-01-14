@@ -17,6 +17,9 @@
 * **Remotely Connecting**
     1. Install *OpenSSH*, which you can see from *Setting* -> *APP* -> *Apps & Features* -> *Optional Features*. Install *OpenSSH Client* and *OpenSSH Server* if you do not 
        have these on your computer.
+       
+       ![Image](OpenSSH.png)
+       
     2. Look up for your special account for CSE15L. Change the password for your special account of CSE15L.
     3. 
 * **Trying Some Commands**
