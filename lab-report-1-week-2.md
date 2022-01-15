@@ -33,8 +33,12 @@
        ![Image](Password.png)
 
     3. Open VScode and Open a *new terminal*. Type in $ ssh *cse15L username*@ieng6.ucsd.edu into the terminal and connect to the server.
-
+       
+       ![Image](Login.png)
 * **Trying Some Commands**
+    You could try some commands in the terminal for both local computer and remote comuter which you just logged in.
+
+    ![Image](Command.png)
 
 * **Moving Files with scp**
 
