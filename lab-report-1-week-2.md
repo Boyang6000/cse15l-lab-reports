@@ -43,12 +43,17 @@
 
 * **Moving Files with scp**
 
-    You can move the file from your local computer to remote computer by using the command called *scp*
+    You can move the file from your local computer to remote computer by using the command called *scp*.
     
-    **PS:** You will require to type in your password when you moving file to remote computer
+    **PS:** You will require to type in your password when you moving file to remote computer.
 
     ![Image](scp.png)
 
 * **Setting an SSH Key**
+    
+    You can set up an SSH Key by using *ssh-keygen*. It will help you from repeating type in password when you moving the file.
+
 
 * **Optimizing Remote Running**
+
+    
