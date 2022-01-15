@@ -24,7 +24,7 @@
        
     2. Look up for your special account for *CSE15L*. Change the password for your special account of *CSE15L*.
 
-       **Tips**  After reset the password for the account, Click *Enter* on your keyboard instead of clicking *Check Password* on the page.
+       ***Tips***  After reset the password for the account, Click *Enter* on your keyboard instead of clicking *Check Password* on the page.
 
        [Account Website](https://sdacs.ucsd.edu/~icc/index.php)
 
