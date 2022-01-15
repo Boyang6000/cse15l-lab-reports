@@ -36,11 +36,18 @@
        
        ![Image](Login.png)
 * **Trying Some Commands**
-    You could try some commands in the terminal for both local computer and remote comuter which you just logged in.
+    
+    You could try some commands in the terminal for both local computer and remote comuter which you just logged in. You can also find other interesting commands on Google.
 
     ![Image](Command.png)
 
 * **Moving Files with scp**
+
+    You can move the file from your local computer to remote computer by using the command called *scp*
+    
+    **PS** You will require to type in your password when you moving file to remote computer
+
+    ![Image](scp.png)
 
 * **Setting an SSH Key**
 
