@@ -67,5 +67,12 @@
 
 * **Optimizing Remote Running**
 
+    At last, you can modify WhereAmI file by yourself. Try your best to make the fast copy from your computer to your server.
+
+    ![image](CopyFile.png)
+
+    Keystrokes: 43 for copying to the server.
     
+
+
 
