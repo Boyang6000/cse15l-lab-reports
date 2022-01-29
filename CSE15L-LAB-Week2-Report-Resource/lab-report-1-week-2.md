@@ -53,7 +53,19 @@
     
     You can set up an SSH Key by using *ssh-keygen*. It will help you from repeating type in password when you moving the file.
 
+    Follow the instruction in the picture to set up your ssh-key.
+
+    ![Image](ssh-keygen.png)
+
+    Then search *Windows PowerShell* in your computer. Open PowerShell as Administrator and complete ssh-add steps.
+
+    ![Image](PowerShell-Admin.png)
+
+    Once finished, copy the public key to your server.
+
+    ![image](copy.png)
 
 * **Optimizing Remote Running**
 
+    
 
