@@ -14,6 +14,9 @@
 
 ![Image](private_key_ssh.png)
 
+![Image](gitclone.png)
+
+[Link](https://github.com/Boyang6000/Skill-Demo-1/commit/c2ff3b7997c12d987716c53bf2c2802a40f2d85a)
 
 
 ## Copy whole directories with scp -r ##
