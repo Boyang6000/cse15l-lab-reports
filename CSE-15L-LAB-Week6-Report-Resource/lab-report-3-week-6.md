@@ -16,4 +16,11 @@
 
 
 
+## Copy whole directories with scp -r ##
+
+![Image](scp_ieng6.png)
+
+![Image](compile_ieng6.png)
+
+![Image](one_line.png)
 
