@@ -2,11 +2,54 @@
 
 [My Markdown-Parse Repository](https://github.com/Boyang6000/markdown-parse)
 
+Preview for Snippet 1
+
+![Image](preview_1.png)
+
+Preview for Snippet 2
+
+![Image](preview_2.png)
+
+Preview for Snippet 3
+
+![Image](preview_3.png);
+
+
+Code for Test
+
 ![Image](Snippet_test_my_repo.png)
+
+Test Result
 
 ![Image](Result_my_repo.png)
 
-Test for three Snippet did not pass.
+Test for three Snippets did not pass.
+
+
+[Reviewed Markdown-Parse Repository](https://github.com/chw081/markdown-parser.git)
+
+Preview for Snippet 1
+
+![Image](preview_1.png)
+
+Preview for Snippet 2
+
+![Image](preview_2.png)
+
+Preview for Snippet 3
+
+![Image](preview_3.png);
+
+Code for Test
+
+![Image](reviewed_test.png)
+
+Test Result
+
+![Image](result_reviewed.png)
+
+Test for three Snippets did not pass.
+
 
 **Answers To The Questions**
 
