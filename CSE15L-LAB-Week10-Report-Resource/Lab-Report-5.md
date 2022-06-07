@@ -37,3 +37,13 @@ Test 201
 
 Describe the Bug
 
+Here is part of code that needs to be changed.
+
+![Image](code_sc.png)
+
+Code change for Test 194 needs to add a code to check if there is multiple close bracket. If there is multiple close bracket, then there will be no link. 
+
+Code change for Test 201 needs to add a if condition to test if there is a dot in between open parenthese and close parenthese. In Test 201, there is no dot in parenthese, which means that baz cannot be a link.
+
+
+
